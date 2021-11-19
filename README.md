@@ -9,4 +9,4 @@ Implementation of SiNet-v2 network for Concealed Object Detection (COD), which a
 <img src="https://github.com/Mithun691/GNR638_SiNet-v2/blob/main/mask3.jpg" width=50% height=50%><img src="https://github.com/Mithun691/GNR638_SiNet-v2/blob/main/img3.png" width=50% height=50%>
 
 ## Training MAE v/s Epoch
-<img src="https://github.com/Mithun691/GNR638_SiNet-v2/blob/main/learning_curve.png" width=50% height=50%>
+<img src="https://github.com/Mithun691/GNR638_SiNet-v2/blob/main/learning_curve.png" width=70% height=70%>
