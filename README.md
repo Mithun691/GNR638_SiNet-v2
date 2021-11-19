@@ -7,6 +7,9 @@ Implementation of SiNet-v2 network for Concealed Object Detection (COD), which a
 - Auxiliary args for running train.py --epoch, --lr, --batchsize, --trainsize, --decay_rate, --decay_epoch, --train_root, --val_root
 - For example : python train.py --epoch 10 --lr 1e-5 --batchsize 20     ( for changing num epochs, learning rate & minibatchsize from default setting )
 
+To understand the network architecture have a look at our presentation,
+https://docs.google.com/presentation/d/1oB76b41hPfaMUQnz3UUtJUsZeg2MEp5Rti97d4DmPFM/edit#slide=id.g10293833661_2_149
+
 # Results
 
 ## Visualizing the detected object mask
