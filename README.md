@@ -19,3 +19,7 @@ https://docs.google.com/presentation/d/1oB76b41hPfaMUQnz3UUtJUsZeg2MEp5Rti97d4Dm
 
 ## Training MAE v/s Epoch
 <img src="https://github.com/Mithun691/GNR638_SiNet-v2/blob/main/learning_curve.png" width=70% height=70%>
+
+## Visualizing the COD-10K results
+<img src="https://github.com/Mithun691/GNR638_SiNet-v2/blob/main/COD10K-1.jpg" width=70% height=70%>
+<img src="https://github.com/Mithun691/GNR638_SiNet-v2/blob/main/COD10K-2.jpg" width=70% height=70%>
